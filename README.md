@@ -9,3 +9,4 @@ checkAge(user1); // Hello, John Doe!
 const user2 = { firstName: "Alice", lastName: "Smith", age: 17 };
 checkAge(user2); // Access denied: You are not eligible to use this service.
 ```
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
